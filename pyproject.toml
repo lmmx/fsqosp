@@ -1,0 +1,15 @@
+[project]
+name = "fsqosp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "folium>=0.19.1",
+    "geojson-pydantic>=1.1.2",
+    "jupyter>=1.1.1",
+    "jupytext>=1.16.4",
+    "pandas>=2.2.3",
+    "polars>=1.17.1",
+    "pyarrow>=18.1.0",
+]
